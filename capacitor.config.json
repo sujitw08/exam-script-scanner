@@ -1,0 +1,15 @@
+{
+  "appId": "com.examscanner.app",
+  "appName": "ExamScript Scanner",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "Camera": {
+      "presentationStyle": "fullscreen"
+    }
+  }
+}
